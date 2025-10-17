@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Cognitive Liberators</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Cognitive Liberators</description>
+    <title>Tag on Cognitive Liberators</title>
+    <link>http://localhost:1313/tags/tag/</link>
+    <description>Recent content in Tag on Cognitive Liberators</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 </copyright>
-    <lastBuildDate>Thu, 16 Oct 2025 21:18:31 +0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/tag/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Why Better Decisions Compound Into Good Lives (And How Stress Stops You)</title>

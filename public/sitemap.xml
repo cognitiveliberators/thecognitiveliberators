@@ -3,6 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-10-17T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/1760690095971-why-better-decisions-compound-into-good-lives-and-how-stress-stops-you/</loc>
+    <lastmod>2025-10-17T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2025-10-16T21:18:31+08:00</lastmod>
     <changefreq>daily</changefreq>
