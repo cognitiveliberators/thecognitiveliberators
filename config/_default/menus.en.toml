@@ -11,7 +11,12 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Blog"
+  name = "About CL"
+  pageRef = "about.md"
+  weight = 10
+
+[[main]]
+  name = "Posts"
   pageRef = "posts"
   weight = 10
 
