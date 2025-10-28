@@ -2,7 +2,7 @@
 title: "The Stress Sleep Spiral"
 date: 2025-10-28
 draft: false
-description: "a description"
+description: "The more you try to force sleep, the more elusive it becomes."
 tags: ["mental loop", "stress"]
 ---
 

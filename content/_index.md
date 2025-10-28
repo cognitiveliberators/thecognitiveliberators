@@ -4,4 +4,4 @@ date: 2025-10-16T21:18:31+08:00
 draft: false
 ---
 
-# Liberate Your Mind. Compound Your Life.
+# Better thoughts. For a better quality of life.
